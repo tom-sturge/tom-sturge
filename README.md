@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🌱 Currently writing fuλctional Scala code at ITV
 <!--
